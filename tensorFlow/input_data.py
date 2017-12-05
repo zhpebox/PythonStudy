@@ -28,8 +28,5 @@ from six.moves import xrange  # pylint: disable=redefined-builtin
 import tensorflow as tf
 from tensorflow.contrib.learn.python.learn.datasets.mnist import read_data_sets
 
-# import tensorflow.examples.tutorials.mnist.input_data
-# mnist = input_data.read_data_sets("MNIST_data/", one_hot=True)
-
 
 
